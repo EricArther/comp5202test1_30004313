@@ -10,7 +10,7 @@ namespace question1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("this program will tell if your number is even or odd.")
+            Console.WriteLine("this program will tell if your number is even or odd.");
             Console.Write("give me a number between 1 and 1000. ");
             int number = int.Parse(Console.ReadLine());
 
